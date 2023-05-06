@@ -1,4 +1,4 @@
-## Importing Flask
+### Importing Flask
 ```python
 from flask import Flask, render_template, redirect, request
 ```
@@ -11,7 +11,7 @@ from flask import Flask, render_template, redirect, request
 - request : to acess any data from post request made to the server and other things.
 ```
 
-## Flask Boilerplate or minimal app
+### Flask Boilerplate or minimal app
 ```python
 from flask import Flask
 
@@ -25,7 +25,7 @@ if __name__ == "__main__":
 	app.run(debug=True, host="0.0.0.0", port=5000)
 ```
 
-## Creating a route
+### Creating a route
 ```python
 #to handle only get request
 @app.route("/")
@@ -54,7 +54,7 @@ Just Create the two folders listed below as it is written because flask wants it
   
 **Note: Any file kept in the static folder is served as a part of the website don't keep and important files like config files in it or it can be downloaded by the users.**
 
-## Rendering a Template from a route
+### Rendering a Template from a route
 ```python
 # rendering file_name.html file from the templates directory
 @app.route("/")
@@ -62,7 +62,7 @@ def hello_world():
     return render_template("file_name.html")
 ```
 
-## Redirecting
+### Redirecting
 ```python
 return redirect('https://google.com')
 ```
@@ -84,7 +84,7 @@ print(str(request.user_agent))
 ```
 # Databases
 
-### Installing Flask Sqlalchemy 
+## Installing Flask Sqlalchemy 
 
 ```bash
 pip install Flask-SQLAlchemy
@@ -96,7 +96,7 @@ from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.exc import IntegrityError #helps in dealing with errors
 ```
 
-## Setting Database URI
+### Setting Database URI
 ```python
 #if you are using a .db file
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///db_name.db'
@@ -185,5 +185,3 @@ except IntegrityError:
 Visit Here : [Flask Official Docs]([Welcome to Flask — Flask Documentation (2.3.x) (palletsprojects.com)](https://flask.palletsprojects.com/en/latest/))
 Visit Here : [Flask Request Official Docs](https://tedboy.github.io/flask/generated/generated/flask.Request.html))
 Visit here : [Flask Sqlalchemy Official Docs]([Flask-SQLAlchemy — Flask-SQLAlchemy Documentation (3.1.x) (palletsprojects.com)](https://flask-sqlalchemy.palletsprojects.com/en/latest/))
-
-Writing about the Flask Response is left

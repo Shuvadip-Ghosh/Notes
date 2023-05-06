@@ -103,16 +103,14 @@ The outer pipes (|) are optional, and you don't need to make the raw Markdown li
 | col1 | col2 | col3 |
 ```
 
-### Task list
+### Task list (CheckBox)
 
 To create a task list start line with square brackets with an empty space.
-Ex: [ <space> ] and add text for task.
-To check the task replace the space between the bracket with "x".
-
+Ex: [  ] and add text for task.
+To check the task replace the space between the bracket with "x"
 ```markdown
-[x] Write the post
-[ ] Update the website
-[ ] Contact the user
+- [ ] (for unchecked checkbox)
+- [x] (for checked checkbox)
 ```
 
 ## Reference
