@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "34e29ff6f3549349",
+        "id": "e0e3a9bd8c4902b6",
         "type": "tabs",
         "children": [
           {
-            "id": "19e63cdb2ca3fd42",
+            "id": "40fe94d9c7d9308b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java.md",
-                "mode": "preview",
+                "file": "JavaScript.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "8e4fcea17e6df520",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java.md",
+                "file": "JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java.md",
+                "file": "JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java.md"
+                "file": "JavaScript.md"
               }
             }
           }
@@ -146,15 +154,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19e63cdb2ca3fd42",
+  "active": "40fe94d9c7d9308b",
   "lastOpenFiles": [
+    "JavaScript.md",
+    "Java.md",
+    "Anime.md",
+    "markdown.md",
+    "Taxes.md",
+    "color-codes.md",
+    "2023-05-06.md",
+    "Untitled.canvas",
     "Flask.md",
     "http-status-codes.md",
     "Python.md",
     "MySQL.md",
-    "Java.md",
-    "markdown.md",
-    "color-codes.md",
     "html-to-markdown.md",
     "linux.md",
     "user-linux.md",
