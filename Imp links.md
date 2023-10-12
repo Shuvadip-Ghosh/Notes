@@ -2,6 +2,8 @@
 1. [DevDocs API Documentation](https://devdocs.io/)
 2. [CSS Generator| 10015 Tools](https://10015.io/css-tools)
 3. [SQLite Viewer (Online sqlite viewer just drag and drop the sql file.)](https://inloop.github.io/sqlite-viewer/)
+4. [Color Palate](https://yeun.github.io/open-color/)
+5. 
 
 ## Utilities
 1. [PCPartPicker - (A very Useful site that help to pick parts for pc build and check if they are compatible or not)](https://pcpartpicker.com/list/)
