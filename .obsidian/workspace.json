@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e0e3a9bd8c4902b6",
+        "id": "f8e6fe86942fcf9c",
         "type": "tabs",
         "children": [
           {
-            "id": "40fe94d9c7d9308b",
+            "id": "1e034d2571076672",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript.md",
-                "mode": "source",
+                "file": "Todo List/ONIYAMA.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 200
   },
   "right": {
     "id": "9fe412ff9c255b86",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript.md",
+                "file": "Todo List/ONIYAMA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript.md",
+                "file": "Todo List/ONIYAMA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript.md"
+                "file": "Todo List/ONIYAMA.md"
               }
             }
           }
@@ -154,24 +154,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40fe94d9c7d9308b",
+  "active": "1e034d2571076672",
   "lastOpenFiles": [
-    "JavaScript.md",
-    "Java.md",
-    "Anime.md",
+    "Imp links.md",
+    "Todo List/ONIYAMA.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Todo List",
     "markdown.md",
+    "JavaScript.md",
+    "user-linux.md",
+    "ufw.md",
+    "Python.md",
     "Taxes.md",
+    "MySQL.md",
+    "Anime.md",
+    "Java.md",
     "color-codes.md",
     "2023-05-06.md",
     "Untitled.canvas",
     "Flask.md",
     "http-status-codes.md",
-    "Python.md",
-    "MySQL.md",
     "html-to-markdown.md",
     "linux.md",
-    "user-linux.md",
-    "ufw.md",
     "Python.markdown",
     "MySQL.markdown",
     "test/Python.markdown",

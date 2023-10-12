@@ -532,6 +532,13 @@ Scrolls the document to the specified coordinates.
 window.scrollTo(500, 0); // Scroll to horizontal position 500
 ```
 
+### Scroll inside a div to a certain element
+Scrolls inside a div to a certain element without scrolling the actual page
+```javascript
+var conatinerdiv = document.getElementById("");
+var targetelement = document.getElementById("");
+conatinerdiv.scrollTop = targetelement.offsetTop;
+```
 ### clearInterval
 
 Clears the setInterval. var is the value returned by setInterval call
