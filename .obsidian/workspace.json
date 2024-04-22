@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e034d2571076672",
+            "id": "ab71e3e87176250e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Imp links.md",
+                "file": "http-status-codes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Imp links.md",
+                "file": "http-status-codes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Imp links.md",
+                "file": "http-status-codes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Imp links.md"
+                "file": "http-status-codes.md"
               }
             }
           }
@@ -154,14 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e034d2571076672",
+  "active": "ab71e3e87176250e",
   "lastOpenFiles": [
     "Todo List/ONIYAMA.md",
+    "Todo List/Resume.md",
+    "markdown.md",
     "Imp links.md",
-    "Untitled.md",
     "Untitled 1.md",
     "Todo List",
-    "markdown.md",
     "JavaScript.md",
     "user-linux.md",
     "ufw.md",

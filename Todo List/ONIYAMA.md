@@ -14,8 +14,9 @@
 - [x] Home
 - [x] Video
 - [x] aboutus
-- [x] not yet aired
-- [x] terms
 - [x] signup
 - [x] 404
 - [x] 500
+
+
+	Note:- oniyamaofficial@gmail.com is available crete this email for professional use.
