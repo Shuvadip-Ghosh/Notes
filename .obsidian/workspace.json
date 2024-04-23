@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f8e6fe86942fcf9c",
+        "id": "6a4d15724979b8f7",
         "type": "tabs",
         "children": [
           {
-            "id": "ab71e3e87176250e",
+            "id": "391113c6e53f3d8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "http-status-codes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "http-status-codes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "http-status-codes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "http-status-codes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,9 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab71e3e87176250e",
+  "active": "391113c6e53f3d8b",
   "lastOpenFiles": [
     "Todo List/ONIYAMA.md",
+    "Oniyama/readme.md",
+    "Oniyama/preview.png",
+    "Oniyama/logo.png",
+    "Oniyama/image.png",
+    "Oniyama/logo.png.crswap",
+    "Oniyama/logo(1).png.crswap",
+    "Oniyama/logo(1).png",
+    "Oniyama",
+    "http-status-codes.md",
     "Todo List/Resume.md",
     "markdown.md",
     "Imp links.md",
@@ -174,7 +175,6 @@
     "2023-05-06.md",
     "Untitled.canvas",
     "Flask.md",
-    "http-status-codes.md",
     "html-to-markdown.md",
     "linux.md",
     "Python.markdown",
